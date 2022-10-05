@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renenotbae
+- 👋 Hi, I’m Irene
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning automation using Python
 - 💞️ I’m looking to collaborate on Data tracking project
